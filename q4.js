@@ -22,7 +22,7 @@ var combine = function (a,b,c) {
     return a+b;
   }
   else {
-    a-b;
+    return a-b;
   }
 }
 
